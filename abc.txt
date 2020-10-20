@@ -1,0 +1,17 @@
+- First
+  Monash Malaysia does not contribute to any condition (ignore monash Malaysia)
+
+- Second
+  Monash Australia counts as international 
+
+- Third
+  If it's not a uni, then it is an industry
+
+- Fourth
+  Only universities contribute to NAT/INT 
+
+TODO
+- Check for monash malaysia first
+- If not monash malaysia, proceed with checking the string
+- Else skip the string
+- Also check for monash australia
